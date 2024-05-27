@@ -11,7 +11,7 @@
 1. Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/your-repo/game-store.git
+git clone https://github.com/SHCDevelops/gamers-design.git
 ```
 
 2. Перейдите в директорию проекта:
