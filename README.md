@@ -1,6 +1,6 @@
 # Game Store
 
-Ссылка на просмотр дизайн: [Game Store Design](https://shcdevelops.github.io/gamers-design/)
+[![Просмотр дизайна](https://img.shields.io/badge/Просмотр%20дизайна-Click-blue?style=for-the-badge)](https://shcdevelops.github.io/gamers-design/)
 
 ## Описание
 
