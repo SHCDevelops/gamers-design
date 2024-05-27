@@ -11,19 +11,19 @@
 1. Клонируйте репозиторий:
 
 ```bash
-$ git clone https://github.com/your-repo/game-store.git
+git clone https://github.com/your-repo/game-store.git
 ```
 
 2. Перейдите в директорию проекта:
 
 ```bash
-$ cd game-store
+cd game-store
 ```
 
 3. Установите зависимости:
 
 ```bash
-$ npm install
+npm install
 ```
 
 ## Использование
@@ -31,7 +31,7 @@ $ npm install
 1. Запустите сервер разработки:
 
 ```bash
-$ gulp
+gulp
 ```
 
 2. Откройте браузер и перейдите по адресу:
